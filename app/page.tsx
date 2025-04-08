@@ -276,7 +276,7 @@ export default function FeedbackCollector() {
       {/* Footer */}
       <footer className="py-4 border-t mt-8">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
-          Created by SARVESH | Task Completed
+          Created by SARVESH BHOITE | Task Completed
         </div>
       </footer>
     </div>
